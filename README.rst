@@ -1,3 +1,7 @@
+
+*Notice: A complete new version will coming soon! With tons of cooling features.*  
+
+
 :Info: Dev_Blog Python-Release Based On Flask, Tornado and MongoDB.
 :Repository: https://github.com/ScenK/Dev_Blog2
 :Author: Scen.K (http://tuzii.me).
@@ -122,5 +126,6 @@
 + 已知同项目, 不同前端风格的网站征集展示:
 
     * 自由&宁静的web前端博客: <http://bo.tuzii.me>
+    * 送果果: <http://www.songguoguo.com>
     
 *Do it yourself and make joy :)*
